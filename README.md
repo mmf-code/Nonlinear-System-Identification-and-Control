@@ -99,4 +99,4 @@ This project explores intelligent control strategies applied to two nonlinear, b
 │   │   └── part_b_4.py
 │   └── outputs (.png, .npy)
 ├── main.tex
-└── report.pdf  # Final LaTeX report (if applicable)
+└── report.pdf  # Final LaTeX report 
